@@ -11,7 +11,7 @@ That's it lets try to master DP starting from the bottom.
 
 - Additionally I will post some aptitude questions daily, so that you get prepared for Interview aptitude Rounds.
 - To make this more exciting, You should start a timer as you start solving question. You should enter the time taken by you to solve the question in your readme. At the end of the day the person who solves most questions in Minimum time will be winner of the day!
-- If you are applying for Off-campus jobs, You can join this telegram channel which posts Software Developer Jobs daily, You should take some time daily to fill the forms for these jobs/internships
+- If you are applying for Off-campus jobs, You can join [this](https://t.me/offcampusjobs4u) telegram channel which posts Software Developer Jobs daily, You should take some time daily to fill the forms for these jobs/internships
 - You can also keep track of the jobs you applied for in the readme.
 
 - Before we start solving DP problems, you should probably want to read what is DP and what types of Problems can be solved using DP.<br>Here are some good articles to get you started.
