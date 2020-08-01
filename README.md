@@ -27,9 +27,9 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
 - [ ] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
 - [ ] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
-- [ ] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)
-**Aptitude**
-- [ ] [Solve Aptitude Questions](https://www.indiabix.com/technical/interview-questions-and-answers/)
+- [ ] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions](https://www.indiabix.com/technical/interview-questions-and-answers/)<br>
 **Algorithms : Read**
 - [ ] [Jump Search](https://www.geeksforgeeks.org/jump-search/)
 - [ ] [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
