@@ -29,7 +29,7 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
 - [ ] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions](https://www.indiabix.com/technical/interview-questions-and-answers/)<br>
+- [ ] [ ] [Solve Aptitude Questions, Complete Problems on Train](https://www.indiabix.com/aptitude/problems-on-trains/)<br>
 **Algorithms : Read**
 - [ ] [Jump Search](https://www.geeksforgeeks.org/jump-search/)
 - [ ] [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
