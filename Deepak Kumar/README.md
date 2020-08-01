@@ -7,9 +7,9 @@
 ### **Day 1**
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
-- [ ] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
-- [ ] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
+- [X] [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
+- [X] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
+- [X] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
 - [ ] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
 - [ ] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
 **Aptitude:**
