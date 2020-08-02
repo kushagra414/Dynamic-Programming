@@ -23,15 +23,32 @@ That's it lets try to master DP starting from the bottom.
 ### **Day 1**
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product/0)
-- [ ] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
-- [ ] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
-- [ ] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
-- [ ] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
+- [x] [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/miniize-the-sum-of-product/0)
+- [x] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
+- [x] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
+- [x] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
+- [x] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions](https://www.indiabix.com/technical/interview-questions-and-answers/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Train](https://www.indiabix.com/aptitude/problems-on-trains/)<br>
 **Algorithms : Read**
-- [ ] [Jump Search](https://www.geeksforgeeks.org/jump-search/)
-- [ ] [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
-- [ ] [Exponential Search](https://www.geeksforgeeks.org/exponential-search/)
-- [ ] [Why is Binary Search preferred over Ternary Search?](https://www.geeksforgeeks.org/binary-search-preferred-ternary-search/)
+- [x] [Jump Search](https://www.geeksforgeeks.org/jump-search/)
+- [x] [Interpolation Search](https://www.geeksforgeeks.org/interpolation-search/)
+- [x] [Exponential Search](https://www.geeksforgeeks.org/exponential-search/)
+- [x] [Why is Binary Search preferred over Ternary Search?](https://www.geeksforgeeks.org/binary-search-preferred-ternary-search/)
+
+### **Day 2**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [ ] [Largest number possible](https://practice.geeksforgeeks.org/problems/largest-number-possible/0)
+- [ ] [Minimum Operations](https://practice.geeksforgeeks.org/problems/find-optimum-operation/0)
+- [ ] [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [ ] [Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys/0)
+- [ ] [Shop in Candy Store](https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Train - Data Sufficiency](https://www.indiabix.com/aptitude/problems-on-trains/039001)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Height and Distance](https://www.indiabix.com/aptitude/height-and-distance/)<br>
+**Algorithms : Read**
+- [ ] [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
+- [ ] [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
+- [ ] [Bucket Sort](https://www.geeksforgeeks.org/bucket-sort-2/)
+- [ ] [Comb Sort](https://www.geeksforgeeks.org/comb-sort/)
