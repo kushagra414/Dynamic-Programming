@@ -26,7 +26,7 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Minimize the sum of product](https://practice.geeksforgeeks.org/problems/miniize-the-sum-of-product/0)
 - [x] [Ishaan Loves Chocolates](https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates/0)
 - [x] [Smallest number](https://practice.geeksforgeeks.org/problems/smallest-number/0)
-- [] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
+- [x] [Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading/0)
 - [x] [Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)<br>
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Train](https://www.indiabix.com/aptitude/problems-on-trains/)<br>
