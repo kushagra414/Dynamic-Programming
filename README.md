@@ -46,7 +46,7 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Shop in Candy Store](https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0)<br>
 **Aptitude:**
 - [ ] [Solve Aptitude Questions, Complete Problems on Train - Data Sufficiency](https://www.indiabix.com/aptitude/problems-on-trains/039001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Height and Distance](https://www.indiabix.com/aptitude/height-and-distance/)
+- [ ] [Solve Aptitude Questions, Complete Problems on Height and Distance](https://www.indiabix.com/aptitude/height-and-distance/)<br>
 **Algorithms : Read**
 - [ ] [Radix Sort](https://www.geeksforgeeks.org/radix-sort/)
 - [ ] [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
