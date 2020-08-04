@@ -83,8 +83,8 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Solve Aptitude Questions, Complete Problems on Profit and Loss](https://www.indiabix.com/aptitude/profit-and-loss/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 1](https://www.indiabix.com/aptitude/profit-and-loss/019001)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/020001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/021001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/022001)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 3](https://www.indiabix.com/aptitude/profit-and-loss/021001)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 4](https://www.indiabix.com/aptitude/profit-and-loss/022001)<br>
 **Algorithms : Read**
 - [ ] [When does the worst case of Quicksort occur?](https://www.geeksforgeeks.org/when-does-the-worst-case-of-quicksort-occur/)
 - [ ] [Lower bound for comparison based sorting algorithms](https://www.geeksforgeeks.org/lower-bound-on-comparison-based-sorting-algorithms/)
