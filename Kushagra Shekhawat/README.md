@@ -47,7 +47,27 @@
 - [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 1](https://www.indiabix.com/aptitude/simple-interest/047001)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/simple-interest/048001)<br>
 **Algorithms : Read**
-- [ ] [Pigeonhole Sort](https://www.geeksforgeeks.org/pigeonhole-sort/)
-- [ ] [Cycle Sort](https://www.geeksforgeeks.org/cycle-sort/)
-- [ ] [Interpolation search vs Binary search](https://www.geeksforgeeks.org/g-fact-84/)
-- [ ] [Stability in sorting algorithms](https://www.geeksforgeeks.org/stability-in-sorting-algorithms/)
+- [x] [Pigeonhole Sort](https://www.geeksforgeeks.org/pigeonhole-sort/)
+- [x] [Cycle Sort](https://www.geeksforgeeks.org/cycle-sort/)
+- [x] [Interpolation search vs Binary search](https://www.geeksforgeeks.org/g-fact-84/)
+- [x] [Stability in sorting algorithms](https://www.geeksforgeeks.org/stability-in-sorting-algorithms/)
+
+### **Day 4**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Smallest number with sum of digits as N and divisible by 10^N](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n/0)
+- [x] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
+- [x] [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays/0)
+- [x] [Minimum Swaps for Bracket Balancing](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0)
+- [x] [Raju and coins](https://practice.geeksforgeeks.org/problems/raju-and-coins/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Profit and Loss](https://www.indiabix.com/aptitude/profit-and-loss/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 1](https://www.indiabix.com/aptitude/profit-and-loss/019001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/020001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 3](https://www.indiabix.com/aptitude/profit-and-loss/021001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 4](https://www.indiabix.com/aptitude/profit-and-loss/022001)<br>
+**Algorithms : Read**
+- [x] [When does the worst case of Quicksort occur?](https://www.geeksforgeeks.org/when-does-the-worst-case-of-quicksort-occur/)
+- [x] [Lower bound for comparison based sorting algorithms](https://www.geeksforgeeks.org/lower-bound-on-comparison-based-sorting-algorithms/)
+- [x] [Which sorting algorithm makes minimum number of memory writes?](https://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/)
+- [x] [Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted](https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
