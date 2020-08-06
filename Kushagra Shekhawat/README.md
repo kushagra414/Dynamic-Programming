@@ -71,3 +71,20 @@
 - [x] [Lower bound for comparison based sorting algorithms](https://www.geeksforgeeks.org/lower-bound-on-comparison-based-sorting-algorithms/)
 - [x] [Which sorting algorithm makes minimum number of memory writes?](https://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/)
 - [x] [Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted](https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
+
+### **Day 5**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
+- [x] ~~ [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
+- [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
+- [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
+- [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Percentage](https://www.indiabix.com/aptitude/percentage/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Calender](https://www.indiabix.com/aptitude/calendar/)<br>
+**Algorithms : Read**
+- [x] [Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+- [x] [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+- [x] [Iterative Quick Sort](https://www.geeksforgeeks.org/iterative-quick-sort/)
+- [x] [QuickSort on Singly Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/)

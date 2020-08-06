@@ -94,16 +94,35 @@ That's it lets try to master DP starting from the bottom.
 ### **Day 5**
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
-- [ ] [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)
-- [ ] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
-- [ ] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
-- [ ] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
+- [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
+- [x] ~~ [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
+- [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
+- [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
+- [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Percentage](https://www.indiabix.com/aptitude/percentage/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Calender](https://www.indiabix.com/aptitude/calendar/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Percentage](https://www.indiabix.com/aptitude/percentage/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Calender](https://www.indiabix.com/aptitude/calendar/)<br>
 **Algorithms : Read**
-- [ ] [Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
-- [ ] [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
-- [ ] [Iterative Quick Sort](https://www.geeksforgeeks.org/iterative-quick-sort/)
-- [ ] [QuickSort on Singly Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/)
+- [x] [Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+- [x] [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+- [x] [Iterative Quick Sort](https://www.geeksforgeeks.org/iterative-quick-sort/)
+- [x] [QuickSort on Singly Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/)
+
+### **Day 6**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [ ] [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [ ] [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+- [ ] [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+- [ ] [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+- [ ] [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Average](https://www.indiabix.com/aptitude/average/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 1](https://www.indiabix.com/aptitude/average/007001)
+- [ ] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 2](https://www.indiabix.com/aptitude/average/008001)
+**Algorithms : Read**
+- [ ] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/?ref=lbp)
+- [ ] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/?ref=lbp)
+- [ ] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [ ] [Dijkstra’s shortest path algorithm | Greedy Algo-7](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
