@@ -78,11 +78,11 @@
 ### **Day 5**
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
+- [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
 - [ ] [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)
-- [ ] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
-- [ ] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
-- [ ] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
+- [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
+- [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
+- [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
 **Aptitude:**
 - [ ] [Solve Aptitude Questions, Complete Problems on Percentage](https://www.indiabix.com/aptitude/percentage/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Calender](https://www.indiabix.com/aptitude/calendar/)<br>
