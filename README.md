@@ -74,19 +74,55 @@ That's it lets try to master DP starting from the bottom.
 ### **Day 4**
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Smallest number with sum of digits as N and divisible by 10^N](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n/0)
-- [ ] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
-- [ ] [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays/0)
-- [ ] [Minimum Swaps for Bracket Balancing](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0)
-- [ ] [Raju and coins](https://practice.geeksforgeeks.org/problems/raju-and-coins/0)<br>
+- [x] [Smallest number with sum of digits as N and divisible by 10^N](https://practice.geeksforgeeks.org/problems/smallest-number-with-sum-of-digits-as-n-and-divisible-by-10n/0)
+- [x] [Huffman Decoding](https://practice.geeksforgeeks.org/problems/huffman-decoding/1)
+- [x] [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays/0)
+- [x] [Minimum Swaps for Bracket Balancing](https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0)
+- [x] [Raju and coins](https://practice.geeksforgeeks.org/problems/raju-and-coins/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Profit and Loss](https://www.indiabix.com/aptitude/profit-and-loss/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 1](https://www.indiabix.com/aptitude/profit-and-loss/019001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/020001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 3](https://www.indiabix.com/aptitude/profit-and-loss/021001)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 4](https://www.indiabix.com/aptitude/profit-and-loss/022001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Profit and Loss](https://www.indiabix.com/aptitude/profit-and-loss/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 1](https://www.indiabix.com/aptitude/profit-and-loss/019001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 2](https://www.indiabix.com/aptitude/profit-and-loss/020001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 3](https://www.indiabix.com/aptitude/profit-and-loss/021001)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Simple Interest - Data Sufficiency 4](https://www.indiabix.com/aptitude/profit-and-loss/022001)<br>
 **Algorithms : Read**
-- [ ] [When does the worst case of Quicksort occur?](https://www.geeksforgeeks.org/when-does-the-worst-case-of-quicksort-occur/)
-- [ ] [Lower bound for comparison based sorting algorithms](https://www.geeksforgeeks.org/lower-bound-on-comparison-based-sorting-algorithms/)
-- [ ] [Which sorting algorithm makes minimum number of memory writes?](https://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/)
-- [ ] [Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted](https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
+- [x] [When does the worst case of Quicksort occur?](https://www.geeksforgeeks.org/when-does-the-worst-case-of-quicksort-occur/)
+- [x] [Lower bound for comparison based sorting algorithms](https://www.geeksforgeeks.org/lower-bound-on-comparison-based-sorting-algorithms/)
+- [x] [Which sorting algorithm makes minimum number of memory writes?](https://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/)
+- [x] [Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted](https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)
+
+### **Day 5**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
+- [x] ~~ [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
+- [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
+- [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
+- [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Percentage](https://www.indiabix.com/aptitude/percentage/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Calender](https://www.indiabix.com/aptitude/calendar/)<br>
+**Algorithms : Read**
+- [x] [Merge Sort for Linked Lists](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+- [x] [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
+- [x] [Iterative Quick Sort](https://www.geeksforgeeks.org/iterative-quick-sort/)
+- [x] [QuickSort on Singly Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/)
+
+### **Day 6**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [ ] [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [ ] [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+- [ ] [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+- [ ] [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+- [ ] [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Average](https://www.indiabix.com/aptitude/average/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 1](https://www.indiabix.com/aptitude/average/007001)
+- [ ] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 2](https://www.indiabix.com/aptitude/average/008001)
+**Algorithms : Read**
+- [ ] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/?ref=lbp)
+- [ ] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/?ref=lbp)
+- [ ] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [ ] [Dijkstra’s shortest path algorithm | Greedy Algo-7](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
