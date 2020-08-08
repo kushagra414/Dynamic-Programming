@@ -120,7 +120,7 @@ That's it lets try to master DP starting from the bottom.
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Average](https://www.indiabix.com/aptitude/average/)<br>
 - [x] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 1](https://www.indiabix.com/aptitude/average/007001)
-- [x] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 2](https://www.indiabix.com/aptitude/average/008001)
+- [x] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 2](https://www.indiabix.com/aptitude/average/008001)<br>
 **Algorithms : Read**
 - [x] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/?ref=lbp)
 - [x] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/?ref=lbp)
@@ -140,4 +140,4 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
 - [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
-- [ ] [Solve Aptitude Questions, Complete Problems on Simplification][https://www.indiabix.com/aptitude/simplification/]
+- [ ] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
