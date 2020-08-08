@@ -88,3 +88,22 @@
 - [x] [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 - [x] [Iterative Quick Sort](https://www.geeksforgeeks.org/iterative-quick-sort/)
 - [x] [QuickSort on Singly Linked List](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/)
+
+### **Day 6**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [x] [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+- [x] [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+- [x] [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+- [x] [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Average](https://www.indiabix.com/aptitude/average/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 1](https://www.indiabix.com/aptitude/average/007001)
+- [x] [Solve Aptitude Questions, Complete Problems on Average - Data Sufficiency 2](https://www.indiabix.com/aptitude/average/008001)
+**Algorithms : Read**
+- [x] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/?ref=lbp)
+- [x] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/?ref=lbp)
+- [x] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
+- [x] [Dijkstra’s shortest path algorithm | Greedy Algo-7](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)

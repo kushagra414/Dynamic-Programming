@@ -6,3 +6,8 @@
 6. [Solve Aptitude Questions, Complete Problems on Profit and Loss](https://www.indiabix.com/aptitude/profit-and-loss/)
 7. [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
 8. [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)
+9. [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+10. [Implementing Dijkstra | Set 1 (Adjacency Matrix)](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+11. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+12. [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
+13. [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)
