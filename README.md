@@ -145,7 +145,7 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 8**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
 - [ ] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
 - [ ] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
