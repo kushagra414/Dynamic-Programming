@@ -107,3 +107,31 @@
 - [x] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/?ref=lbp)
 - [x] [Graph and its representations](https://www.geeksforgeeks.org/graph-and-its-representations/)
 - [x] [Dijkstra’s shortest path algorithm | Greedy Algo-7](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+
+### **Day 7**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+- ~~[ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)~~
+- ~~[ ] [Min Coin](https://practice.geeksforgeeks.org/problems/min-coin/0)~~
+- ~~[ ] [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0)~~
+- [x] [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
+- [x] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
+
+
+### **Day 8**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
+- [x] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
+- [x] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-4/0)
+- [x] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>

@@ -147,10 +147,10 @@ That's it lets try to master DP starting from the bottom.
 #### Tasks
 - **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
-- [ ] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
-- [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-4/0)
-- [ ] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
-- [ ] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+- [x] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
+- [x] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
+- [x] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-4/0)
+- [x] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>
