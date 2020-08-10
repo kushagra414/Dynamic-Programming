@@ -11,3 +11,5 @@
 11. [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
 12. [Page Faults in LRU](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
 13. [Geek collects the balls](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0)
+14. [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+15. [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)

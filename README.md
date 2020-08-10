@@ -95,7 +95,7 @@ That's it lets try to master DP starting from the bottom.
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
 - [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
-- [x] ~~ [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
+- ~~[x]  [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
 - [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
 - [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
 - [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
@@ -131,13 +131,26 @@ That's it lets try to master DP starting from the bottom.
 #### Tasks
 - **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
-- [ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)
-- [ ] [Min Coin](https://practice.geeksforgeeks.org/problems/min-coin/0)
-- [ ] [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0)
-- [ ] [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)<br>
+- [x] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+- ~~[ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)~~
+- ~~[ ] [Min Coin](https://practice.geeksforgeeks.org/problems/min-coin/0)~~
+- ~~[ ] [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0)~~
+- [x] [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
-- [ ] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
+- [x] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
+
+
+### **Day 8**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [ ] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
+- [ ] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
+- [ ] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-4/0)
+- [ ] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [ ] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>
