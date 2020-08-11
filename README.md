@@ -154,3 +154,17 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+### **Day 9**
+#### Tasks
+- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
+**Algorithms: Greedy Algorithm Questions**
+- [ ] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [ ] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
+- [ ] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [ ] [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif/0)
+- [ ] [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
+- [ ] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 6-10](https://www.indiabix.com/aptitude/numbers/)<br>
