@@ -175,7 +175,7 @@ That's it lets try to master DP starting from the bottom.
 #### Tasks
 - [ ] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
 - [ ] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
-- [ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)
+- ~~[ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)~~
 - [ ] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)
 - [ ] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)
 **Aptitude:**
