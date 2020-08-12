@@ -173,8 +173,6 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 10**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
-**Algorithms: Greedy Algorithm Questions**
 - [ ] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
 - [ ] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
 - [ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)
