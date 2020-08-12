@@ -15,3 +15,5 @@
 15. [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)
 16. [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
 17. [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+18. [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
+19. [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)  ---> checkout boost library

@@ -148,3 +148,13 @@
 - [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 6-10](https://www.indiabix.com/aptitude/numbers/)<br>
+
+### **Day 10**
+#### Tasks
+- [x] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
+- [x] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
+- ~~[ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)~~
+- [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)
+- [x] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 11-15](https://www.indiabix.com/aptitude/numbers/)<br>
