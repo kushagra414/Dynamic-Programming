@@ -158,7 +158,6 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 9**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
 - [x] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
 - [x] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
