@@ -129,7 +129,7 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 7**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
 - [x] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
 - ~~[ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)~~
@@ -145,7 +145,6 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 8**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
 - [x] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
 - [x] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
