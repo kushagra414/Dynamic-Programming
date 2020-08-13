@@ -176,6 +176,18 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
 - ~~[ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)~~
 - [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)
-- [x] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)
+- [x] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)<br>
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 11-15](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+### **Day 11**
+#### Tasks
+- [ ] [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
+- [ ] [Maximize Dot Product](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0)
+- [ ] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0)
+- [ ] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+- [ ] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>
