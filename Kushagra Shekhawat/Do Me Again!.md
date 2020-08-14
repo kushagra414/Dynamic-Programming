@@ -17,3 +17,5 @@
 17. [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
 18. [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
 19. [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)  ---> checkout boost library
+20. [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) ---> watch this [video](https://youtu.be/yZWmS6CXbQc)
+21. [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)

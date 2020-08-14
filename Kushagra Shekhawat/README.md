@@ -157,3 +157,15 @@
 - [x] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)<br>
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 11-15](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+### **Day 11**
+#### Tasks
+- [x] [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
+- [x] [Maximize Dot Product](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0)
+- [x] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0)
+- ~~[ ] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)~~
+- [x] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>

@@ -182,11 +182,11 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 11**
 #### Tasks
-- [ ] [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
-- [ ] [Maximize Dot Product](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0)
-- [ ] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0)
-- [ ] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
-- [ ] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)<br>
+- [x] [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
+- [x] [Maximize Dot Product](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0)
+- [x] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0)
+- ~~[ ] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)~~
+- [x] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>
