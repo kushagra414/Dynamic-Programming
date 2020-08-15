@@ -212,6 +212,11 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
 - [ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
 - [ ] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
+- [ ] [Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 **Aptitude:**
 - [ ] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
