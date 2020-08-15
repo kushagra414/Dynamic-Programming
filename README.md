@@ -194,12 +194,26 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 12**
 #### Tasks
-- [ ] [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting/0)
-- [ ] [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
-- [ ] [Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0)
-- [ ] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
-- [ ] [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
+- [x] [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting/0)
+- [x] [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
+- ~~[ ] [Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0)~~
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
 **Aptitude:**
 - [ ] [Solve Aptitude Questions, Complete Problems on Chain Rule](https://www.indiabix.com/aptitude/chain-rule/028003)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Boats and Streams](https://www.indiabix.com/aptitude/boats-and-streams/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Logarithm](https://www.indiabix.com/aptitude/logarithm/)
+
+
+### **Day 13**
+#### Tasks
+- [ ] [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
+- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+- [ ] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
+- [ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
+- [ ] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
+**Read Articles:**
+- [ ] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)

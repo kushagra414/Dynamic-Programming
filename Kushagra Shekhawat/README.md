@@ -169,3 +169,15 @@
 **Aptitude:**
 - [x] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
 - [x] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>
+
+### **Day 12**
+#### Tasks
+- [x] [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting/0)
+- [x] [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
+- ~~[ ] [Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0)~~
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Chain Rule](https://www.indiabix.com/aptitude/chain-rule/028003)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Boats and Streams](https://www.indiabix.com/aptitude/boats-and-streams/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Logarithm](https://www.indiabix.com/aptitude/logarithm/)

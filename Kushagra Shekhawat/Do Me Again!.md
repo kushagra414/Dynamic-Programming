@@ -19,3 +19,4 @@
 19. [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)  ---> checkout boost library
 20. [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0) ---> watch this [video](https://youtu.be/yZWmS6CXbQc)
 21. [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)
+22. [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
