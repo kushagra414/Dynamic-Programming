@@ -181,3 +181,21 @@
 - [ ] [Solve Aptitude Questions, Complete Problems on Chain Rule](https://www.indiabix.com/aptitude/chain-rule/028003)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Boats and Streams](https://www.indiabix.com/aptitude/boats-and-streams/)<br>
 - [ ] [Solve Aptitude Questions, Complete Problems on Logarithm](https://www.indiabix.com/aptitude/logarithm/)
+
+### **Day 13**
+#### Tasks
+- [x] [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
+- [x] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+- [x] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
+- ~~[ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)~~
+- [x] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
+- [x] [Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
+**Read Articles:**
+- [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)

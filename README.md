@@ -222,3 +222,18 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
 **Read Articles:**
 - [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
+
+
+### **Day 14**
+#### Tasks
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [ ] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)
+- [ ] [House Robber](https://leetcode.com/problems/house-robber)
+- [ ] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
+- [ ] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)<br>
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [ ] [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)
+- [ ] [Stone Game](https://leetcode.com/problems/stone-game-ii)
+- [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
+- [ ] [Minimum Falling Path Sum](hhttps://leetcode.com/problems/minimum-falling-path-sum)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
