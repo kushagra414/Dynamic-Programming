@@ -233,7 +233,7 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)<br>
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [ ] [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)
-- [ ] [Stone Game](https://leetcode.com/problems/stone-game-ii)
+- [ ] [Stone Game](https://leetcode.com/problems/stone-game)
 - [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
-- [ ] [Minimum Falling Path Sum](hhttps://leetcode.com/problems/minimum-falling-path-sum)
+- [ ] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
