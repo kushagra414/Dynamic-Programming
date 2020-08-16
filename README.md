@@ -207,18 +207,18 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 13**
 #### Tasks
-- [ ] [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
-- [ ] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
-- [ ] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
-- [ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
-- [ ] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
-- [ ] [Divisor Game](https://leetcode.com/problems/divisor-game/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
+- [x] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+- [x] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
+- ~~[ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)~~
+- [x] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
+- [x] [Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
 **Read Articles:**
-- [ ] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
+- [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
