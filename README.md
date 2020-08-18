@@ -226,14 +226,29 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 14**
 #### Tasks
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
-- [ ] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber)
-- [ ] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
-- [ ] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)<br>
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [x] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)
+- ~~[ ] [House Robber](https://leetcode.com/problems/house-robber)~~
+- [x] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
+- [x] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)<br>
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits)
 - [ ] [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)
-- [ ] [Stone Game](https://leetcode.com/problems/stone-game)
+- [x] [Stone Game](https://leetcode.com/problems/stone-game)
 - [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
-- [ ] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+### **Day 15**
+#### Tasks
+- [ ] [Painting Fence Algorithm](https://www.geeksforgeeks.org/painting-fence-algorithm/)
+- [ ] [Repetitive Addition Of Digits](https://practice.geeksforgeeks.org/problems/repetitive-addition-of-digits/0)
+- [ ] [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length/0)
+- [ ] [Sequence of Sequence](https://practice.geeksforgeeks.org/problems/sequence-of-sequence/0)
+- [ ] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)<br>
+- [ ] [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+- [ ] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+- [ ] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [ ] [LCS of three strings](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0)
+- [ ] [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Odd Man Out and Series](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>

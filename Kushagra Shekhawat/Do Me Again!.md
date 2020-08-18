@@ -22,3 +22,5 @@
 22. [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
 23. [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
 24. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+25. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
+26. [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)

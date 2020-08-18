@@ -199,3 +199,17 @@
 - [x] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
 **Read Articles:**
 - [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
+
+### **Day 14**
+#### Tasks
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [x] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)
+- ~~[ ] [House Robber](https://leetcode.com/problems/house-robber)~~
+- [x] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
+- [x] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [ ] [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)
+- [x] [Stone Game](https://leetcode.com/problems/stone-game)
+- [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
+- [x] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
