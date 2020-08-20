@@ -95,7 +95,7 @@ That's it lets try to master DP starting from the bottom.
 #### Tasks
 **Algorithms: Greedy Algorithm Questions**
 - [x] [Hungry Pizza Lovers](https://practice.geeksforgeeks.org/problems/hungry-pizza-lovers/0)
-- [x] ~~ [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
+- ~~[x]  [Theft at World Bank](https://practice.geeksforgeeks.org/problems/theft-at-the-world-bank/0)~~
 - [x] [Choose and Swap](https://practice.geeksforgeeks.org/problems/choose-and-swap/0)
 - [x] [Largest Permutation](https://practice.geeksforgeeks.org/problems/largest-permutation/0)
 - [x] [Minimize the heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights/0)<br>
@@ -129,15 +129,126 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 7**
 #### Tasks
-- **NOTE: Before Attempting the Question read the articles. So that you can understand the theory behind the questions!**
+- **NOTE: Before Attempting the Question read the articles of Day 1. So that you can understand the theory behind the questions!**
 **Algorithms: Greedy Algorithm Questions**
-- [ ] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
-- [ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)
-- [ ] [Min Coin](https://practice.geeksforgeeks.org/problems/min-coin/0)
-- [ ] [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0)
-- [ ] [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)<br>
+- [x] [Coin Piles](https://practice.geeksforgeeks.org/problems/coin-piles/0)
+- ~~[ ] [Minimum Cost Path](https://practice.geeksforgeeks.org/problems/minimum-cost-path/0)~~
+- ~~[ ] [Min Coin](https://practice.geeksforgeeks.org/problems/min-coin/0)~~
+- ~~[ ] [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem/0)~~
+- [x] [7 Segment Display](https://practice.geeksforgeeks.org/problems/7-segment-display/0)<br>
 **Aptitude:**
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
-- [ ] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
-- [ ] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area](https://www.indiabix.com/aptitude/volume-and-surface-area/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 1](https://www.indiabix.com/aptitude/volume-and-surface-area/059001)
+- [x] [Solve Aptitude Questions, Complete Problems on Volume and Surface Area - Data Sufficiency 2](https://www.indiabix.com/aptitude/volume-and-surface-area/060001)
+- [x] [Solve Aptitude Questions, Complete Problems on Simplification](https://www.indiabix.com/aptitude/simplification/)
+
+
+### **Day 8**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Print first n Fibonacci Numbers](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers/0)
+- [x] [Padovan Sequence](https://practice.geeksforgeeks.org/problems/padovan-sequence/0)
+- [x] [Count numbers containing 4](https://practice.geeksforgeeks.org/problems/count-numbers-containing-4/0)
+- [x] [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
+- [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 1-5](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+### **Day 9**
+#### Tasks
+**Algorithms: Greedy Algorithm Questions**
+- [x] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [x] [Maximize The Cut Segments](https://practice.geeksforgeeks.org/problems/cutted-segments/0)
+- [x] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [x] [Stickler Thief](https://practice.geeksforgeeks.org/problems/stickler-theif/0)
+- [x] [Minimum number of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins/0)
+- [x] [Revisit the Questions that you couldn't do in one go or took lot of time]<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 6-10](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+
+### **Day 10**
+#### Tasks
+- [x] [Count number of hops](https://practice.geeksforgeeks.org/problems/count-number-of-hops/0)
+- [x] [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
+- ~~[ ] [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)~~
+- [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)
+- [x] [Reach the Nth point](https://practice.geeksforgeeks.org/problems/reach-the-nth-point/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Numbers - Complete pages 11-15](https://www.indiabix.com/aptitude/numbers/)<br>
+
+
+### **Day 11**
+#### Tasks
+- [x] [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
+- [x] [Maximize Dot Product](https://practice.geeksforgeeks.org/problems/maximize-dot-product/0)
+- [x] [Number of Unique Paths](https://practice.geeksforgeeks.org/problems/number-of-unique-paths/0)
+- ~~[ ] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)~~
+- [x] [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0)<br>
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on H.C.F and L.C.M](https://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on Surds and Indices](https://www.indiabix.com/aptitude/surds-and-indices/)<br>
+
+
+### **Day 12**
+#### Tasks
+- [x] [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting/0)
+- [x] [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0)
+- ~~[ ] [Palindromic patitioning](https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0)~~
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count of strings that can be formed using a, b and c under given constraints](https://practice.geeksforgeeks.org/problems/count-of-strings-that-can-be-formed-using-a-b-and-c-under-given-constraints/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Chain Rule](https://www.indiabix.com/aptitude/chain-rule/028003)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Boats and Streams](https://www.indiabix.com/aptitude/boats-and-streams/)<br>
+- [ ] [Solve Aptitude Questions, Complete Problems on Logarithm](https://www.indiabix.com/aptitude/logarithm/)
+
+
+### **Day 13**
+#### Tasks
+- [x] [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change/0)
+- [x] [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+- [x] [Subset with sum divisible by m](https://practice.geeksforgeeks.org/problems/subset-with-sum-divisible-by-m/0)
+- ~~[ ] [nCr](https://practice.geeksforgeeks.org/problems/ncr/0)~~
+- [x] [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem/0)<br>
+- [x] [Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+**Aptitude:**
+- [x] [Solve Aptitude Questions, Complete Problems on Stocks and Shares](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
+- [x] [Solve Aptitude Questions, Complete Problems on True Discount](https://www.indiabix.com/aptitude/true-discount/)<br>
+**Read Articles:**
+- [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
+
+
+### **Day 14**
+#### Tasks
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [x] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)
+- ~~[ ] [House Robber](https://leetcode.com/problems/house-robber)~~
+- [x] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
+- [x] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)<br>
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits)
+- [ ] [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)
+- [x] [Stone Game](https://leetcode.com/problems/stone-game)
+- [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
+- [x] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+### **Day 15**
+#### Tasks
+- [ ] [Painting Fence Algorithm](https://www.geeksforgeeks.org/painting-fence-algorithm/)
+- [ ] [Repetitive Addition Of Digits](https://practice.geeksforgeeks.org/problems/repetitive-addition-of-digits/0)
+- [ ] [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length/0)
+- [ ] [Sequence of Sequence](https://practice.geeksforgeeks.org/problems/sequence-of-sequence/0)
+- [ ] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)<br>
+- [ ] [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+- [ ] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+- [ ] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [ ] [LCS of three strings](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0)
+- [ ] [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)<br>
+**Aptitude:**
+- [ ] [Solve Aptitude Questions, Complete Problems on Odd Man Out and Series](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
