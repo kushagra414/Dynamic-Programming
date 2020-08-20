@@ -260,7 +260,7 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Longest subsequence-1](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0)
 - [ ] [Maximum sum Problem](https://practice.geeksforgeeks.org/problems/maximum-sum-problem/0)
 - [ ] [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0)
-- [ ] [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0)<br>
+- [ ] [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0)<br>
 - [ ] [Minimum cost to fill given weight in a bag](https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0)
 - [ ] [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 - [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
