@@ -252,3 +252,17 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)<br>
 **Aptitude:**
 - [ ] [Solve Aptitude Questions, Complete Problems on Odd Man Out and Series](https://www.indiabix.com/aptitude/stocks-and-shares/)<br>
+
+
+### **Day 16**
+#### Tasks
+- [ ] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+- [ ] [Longest subsequence-1](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0)
+- [ ] [Maximum sum Problem](https://practice.geeksforgeeks.org/problems/maximum-sum-problem/0)
+- [ ] [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0)
+- [ ] [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0)<br>
+- [ ] [Minimum cost to fill given weight in a bag](https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0)
+- [ ] [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+- [ ] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [ ] [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
+- [ ] [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
