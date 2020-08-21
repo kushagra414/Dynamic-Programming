@@ -24,3 +24,10 @@
 24. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
 25. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
 26. [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
+27. [Painting Fence Algorithm](https://practice.geeksforgeeks.org/problems/painting-the-fence/0)
+28. [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length/0)
+29. [Sequence of Sequence](https://practice.geeksforgeeks.org/problems/sequence-of-sequence/0)
+30. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+31. [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)
+32. [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
+33. [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
