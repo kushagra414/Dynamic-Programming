@@ -283,5 +283,5 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Number of ways](https://practice.geeksforgeeks.org/problems/number-of-ways/0)
 - [ ] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 - [ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)
-- [ ] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)
+- [ ] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
 - [ ] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
