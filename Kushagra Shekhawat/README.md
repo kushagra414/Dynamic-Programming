@@ -244,3 +244,22 @@
 - [x] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
 - [x] [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
 - [x] [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
+
+
+### **Day 17**
+#### Tasks
+- [x] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+- [x] [Minimum Time](https://practice.geeksforgeeks.org/problems/minimum-time/0)
+- [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+- [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number/0)
+- [x] [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+- [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+- [ ] [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter/0)
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
+- [x] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [x] [Number of ways](https://practice.geeksforgeeks.org/problems/number-of-ways/0)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
+- [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
+- [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)

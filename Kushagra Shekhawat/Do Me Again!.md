@@ -31,3 +31,10 @@
 31. [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)
 32. [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
 33. [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
+34. [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+35. [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+36. [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+37. [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter/0)
+38. [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
+39. [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
+40. [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
