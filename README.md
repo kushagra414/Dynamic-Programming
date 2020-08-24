@@ -285,3 +285,25 @@ That's it lets try to master DP starting from the bottom.
 - ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
 - [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
 - [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
+
+### **Day 18**
+#### Tasks
+- [ ] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [ ] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [ ] [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
+- [ ] [Generate binary string](https://practice.geeksforgeeks.org/problems/generate-binary-string/0)
+- [ ] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [ ] [Group Anagrams Together](https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+- [ ] [Equal](https://www.hackerrank.com/challenges/equal/problem)
+- [ ] [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)
+- [ ] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [ ] [K-Concatenation](https://www.codechef.com/JAN18/problems/KCON/)
+- [ ] [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
+- [ ] [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
+- [ ] [Print Diagonally](https://practice.geeksforgeeks.org/problems/print-diagonally/0)
+- [ ] [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [ ] [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
+- [ ] [Check If two Line segments Intersect](https://practice.geeksforgeeks.org/problems/check-if-two-line-segments-intersect/0)
+- [ ] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [ ] [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+- [ ] [Generalised Fibonacci numbers](https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers/0)
