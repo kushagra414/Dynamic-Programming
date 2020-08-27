@@ -249,3 +249,43 @@
 - [x] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
 - [x] [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
 - [x] [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
+
+### **Day 17**
+#### Tasks
+- [x] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+- [x] [Minimum Time](https://practice.geeksforgeeks.org/problems/minimum-time/0)
+- [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+- [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number/0)
+- [x] [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+- [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+- [ ] [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter/0)
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
+- [x] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [x] [Number of ways](https://practice.geeksforgeeks.org/problems/number-of-ways/0)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
+- [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
+- [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
+
+### **Day 18**
+#### Tasks
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [x] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [x] [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
+- [x] [Generate binary string](https://practice.geeksforgeeks.org/problems/generate-binary-string/0)
+- [x] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [x] [Group Anagrams Together](https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+- [ ] [Equal](https://www.hackerrank.com/challenges/equal/problem)
+- [x] [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)
+- [x] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [ ] [K-Concatenation](https://www.codechef.com/JAN18/problems/KCON/)
+- [x] [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
+- [x] [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
+- [x] [Print Diagonally](https://practice.geeksforgeeks.org/problems/print-diagonally/0)
+- [x] [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [ ] [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
+- [ ] [Check If two Line segments Intersect](https://practice.geeksforgeeks.org/problems/check-if-two-line-segments-intersect/0)
+- [x] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [x] [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+- [ ] [Generalised Fibonacci numbers](https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers/0)
