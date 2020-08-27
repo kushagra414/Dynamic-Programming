@@ -200,6 +200,7 @@
 **Read Articles:**
 - [x] [Largest divisible pairs subset](https://www.geeksforgeeks.org/largest-divisible-pairs-subset/)
 
+
 ### **Day 14**
 #### Tasks
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
@@ -213,3 +214,52 @@
 - [ ] [Stone Game II](https://leetcode.com/problems/stone-game-ii)
 - [x] [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+
+### **Day 15**
+#### Tasks
+- [x] [Painting Fence Algorithm](https://practice.geeksforgeeks.org/problems/painting-the-fence/0)
+- [x] [Repetitive Addition Of Digits](https://practice.geeksforgeeks.org/problems/repetitive-addition-of-digits/0)
+- [x] [Count even length](https://practice.geeksforgeeks.org/problems/count-even-length/0)
+- [x] [Sequence of Sequence](https://practice.geeksforgeeks.org/problems/sequence-of-sequence/0)
+- [x] [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+- [x] [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+- [x] [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+- [x] [Maximum sum increasing subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0)
+- [x] [LCS of three strings](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0)
+- [x] [Maximum Sum Bitonic Subsequence](https://practice.geeksforgeeks.org/problems/maximum-sum-bitonic-subsequence/0)<br>
+**Aptitude:**
+- ~~[ ] [Solve Aptitude Questions, Complete Problems on Odd Man Out and Series](https://www.indiabix.com/aptitude/stocks-and-shares/)~~<br>
+
+
+### **Day 16**
+#### Tasks
+- [x] [Max length chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+- [x] [Longest subsequence-1](https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0)
+- [x] [Maximum sum Problem](https://practice.geeksforgeeks.org/problems/maximum-sum-problem/0)
+- [x] [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0)
+- [x] [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0)
+- [x] [Minimum cost to fill given weight in a bag](https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0)
+- [x] [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+- [x] [Path in Matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix/0)
+- [x] [Adjacents are not allowed](https://practice.geeksforgeeks.org/problems/adjacents-are-not-allowed/0)
+- [x] [Minimum steps to minimize n as per given condition](https://practice.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition/0)<br>
+
+
+### **Day 17**
+#### Tasks
+- [x] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+- [x] [Minimum Time](https://practice.geeksforgeeks.org/problems/minimum-time/0)
+- [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+- [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number/0)
+- [x] [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+- [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+- [ ] [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter/0)
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
+- [x] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [x] [Number of ways](https://practice.geeksforgeeks.org/problems/number-of-ways/0)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
+- [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
+- [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
