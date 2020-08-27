@@ -2,7 +2,7 @@
 import os
 
 def createFolder(dayNo, pathToFolder, pathTolistOfPrograms, startIndex):
-	pathToFolder = pathToFolder+'\Day'+dayNo
+	pathToFolder = pathToFolder+'\Day '+dayNo
 	os.mkdir(pathToFolder)
 	createFiles(pathToFolder,pathTolistOfPrograms,startIndex)
 	return
