@@ -38,3 +38,24 @@
 38. [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
 39. [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
 40. [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
+41. [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0) ---> in O(1) space and O(N) time using XOR property.
+42. [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+43. [Generate binary string](https://practice.geeksforgeeks.org/problems/generate-binary-string/0)
+44. [Group Anagrams Together](https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+45. [Equal](https://www.hackerrank.com/challenges/equal/problem) --> not done yet!
+46. [K-Concatenation](https://www.codechef.com/JAN18/problems/KCON/)
+47. [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
+48. [Print Diagonally](https://practice.geeksforgeeks.org/problems/print-diagonally/0)
+49. [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)  --> not done yet!
+50. [Check If two Line segments Intersect](https://practice.geeksforgeeks.org/problems/check-if-two-line-segments-intersect/0)--> not done yet!
+51. [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+52. [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0) ---> Moore's voting Algo
+53. [Generalised Fibonacci numbers](https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers/0)
+54. [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0) ---> in O(1) space and O(n) time
+55. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+56. [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+57. [Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory/0)
+58. [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+59. [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1)
+60. [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
+61. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/0)0)
