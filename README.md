@@ -401,7 +401,7 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
 - [ ] [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
 - [ ] [Multiply a given Integer with 3.5](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
-- [ ] [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)  ----> Do this for a DAG
+- [ ] [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
 - [ ] [Find whether a given number is a power of 4 or not](https://www.geeksforgeeks.org/find-whether-a-given-number-is-a-power-of-4-or-not/)
 - [ ] [Compute modulus division by a power-of-2-number](https://www.geeksforgeeks.org/compute-modulus-division-by-a-power-of-2-number/)
 - [ ] [Rotate bits of a number](https://www.geeksforgeeks.org/rotate-bits-of-an-integer/)
