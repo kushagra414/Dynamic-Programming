@@ -353,6 +353,7 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 21**
 #### Tasks
+#### Tasks
 - [x] [Detect cycle in an undirected graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
 - [x] [Detect cycle in a directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
 - [x] [Detect a negative cycle in a Graph | (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)
@@ -368,25 +369,51 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Union-Find Algorithm | (Union By Rank and Find by Optimized Path Compression)](https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/)
 - [x] [Magical Indices in an array](https://www.geeksforgeeks.org/magical-indices-array/)
 
+
 ### **Day 22**
 #### Tasks
-- [ ] [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
-- [ ] [All Topological Sorts of a Directed Acyclic Graph](https://www.geeksforgeeks.org/all-topological-sorts-of-a-directed-acyclic-graph/)
-- [ ] [Kahn’s algorithm for Topological Sorting](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)
-- [ ] [Maximum edges that can be added to DAG so that is remains DAG](https://www.geeksforgeeks.org/maximum-edges-can-added-dag-remains-dag/)
-- [ ] [Longest path between any pair of vertices](https://www.geeksforgeeks.org/longest-path-between-any-pair-of-vertices/)
-- [ ] [Longest Path in a Directed Acyclic Graph](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
-- [ ] [Longest Path in a Directed Acyclic Graph | Set 2](https://www.geeksforgeeks.org/longest-path-directed-acyclic-graph-set-2/)
-- [ ] [Topological Sort of a graph using departure time of vertex](https://www.geeksforgeeks.org/topological-sorting-using-departure-time-of-vertex/)
-- [ ] [Given a sorted dictionary of an alien language, find order of characters](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/)
-- [ ] [Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
-- [ ] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/)
-- [ ] [Prim’s MST for Adjacency List Representation | Greedy Algo-6](https://www.geeksforgeeks.org/prims-mst-for-adjacency-list-representation-greedy-algo-6/)
-- [ ] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
-- [ ] [Boruvka’s algorithm | Greedy Algo-9](https://www.geeksforgeeks.org/boruvkas-algorithm-greedy-algo-9/)
-- [ ] [Minimum cost to connect all cities](https://www.geeksforgeeks.org/minimum-cost-connect-cities/)
-- [ ] [Steiner Tree Problem](https://www.geeksforgeeks.org/steiner-tree/)
-- [ ] [Reverse Delete Algorithm for Minimum Spanning Tree](https://www.geeksforgeeks.org/reverse-delete-algorithm-minimum-spanning-tree/)
-- [ ] [Reverse Delete Algorithm for Minimum Spanning Tree](https://www.geeksforgeeks.org/reverse-delete-algorithm-minimum-spanning-tree/)
-- [ ] [Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)
-- [ ] [Minimum Product Spanning Tree](https://www.geeksforgeeks.org/minimum-product-spanning-tree/)
+- [x] [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
+- [x] [All Topological Sorts of a Directed Acyclic Graph](https://www.geeksforgeeks.org/all-topological-sorts-of-a-directed-acyclic-graph/)
+- [x] [Kahn’s algorithm for Topological Sorting](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)
+- [x] [Maximum edges that can be added to DAG so that remains DAG](https://www.geeksforgeeks.org/maximum-edges-can-added-dag-remains-dag/)
+- [x] [Longest path between any pair of vertices](https://www.geeksforgeeks.org/longest-path-between-any-pair-of-vertices/)  ----> Do this for a DAG
+- [x] [Longest Path in a Directed Acyclic Graph](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
+- ~~[ ] [Longest Path in a Directed Acyclic Graph | Set 2](https://www.geeksforgeeks.org/longest-path-directed-acyclic-graph-set-2/)~~ ---> Do in shortest Paths
+- [x] [Topological Sort of a graph using departure time of vertex](https://www.geeksforgeeks.org/topological-sorting-using-departure-time-of-vertex/)
+- [x] [Given a sorted dictionary of an alien language, find order of characters](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/)
+- ~~[x] [Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)~~   ---> Done in Day 6, But should be revised once again!
+- [x] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/)
+- [x] [Prim’s MST for Adjacency List Representation | Greedy Algo-6](https://www.geeksforgeeks.org/prims-mst-for-adjacency-list-representation-greedy-algo-6/)
+- [x] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+- [x] [Boruvka’s algorithm | Greedy Algo-9](https://www.geeksforgeeks.org/boruvkas-algorithm-greedy-algo-9/)
+- [x] [Minimum cost to connect all cities](https://www.geeksforgeeks.org/minimum-cost-connect-cities/)
+- [x] [Steiner Tree Problem](https://www.geeksforgeeks.org/steiner-tree/)
+- ~~[x] [Reverse Delete Algorithm for Minimum Spanning Tree](https://www.geeksforgeeks.org/reverse-delete-algorithm-minimum-spanning-tree/)~~ ---> More efficient approach in connectivity using articulation point
+- [x] [Bridge Edge in Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)
+- [x] [Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)
+- [x] [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0)
+- [x] [Minimum Product Spanning Tree](https://www.geeksforgeeks.org/minimum-product-spanning-tree/)
+
+
+### **Day 23**
+#### Tasks
+- [ ] [Find the element that appears once](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
+- [ ] [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
+- [ ] [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
+- [ ] [Multiply a given Integer with 3.5](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
+- [ ] [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)  ----> Do this for a DAG
+- [ ] [Find whether a given number is a power of 4 or not](https://www.geeksforgeeks.org/find-whether-a-given-number-is-a-power-of-4-or-not/)
+- [ ] [Compute modulus division by a power-of-2-number](https://www.geeksforgeeks.org/compute-modulus-division-by-a-power-of-2-number/)
+- [ ] [Rotate bits of a number](https://www.geeksforgeeks.org/rotate-bits-of-an-integer/)
+- [ ] [Find the Number Occurring Odd Number of Times](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
+- [ ] [Check for Integer Overflow](https://www.geeksforgeeks.org/check-for-integer-overflow/)
+- [ ] [Count set bits in an integer](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
+- [ ] [Count number of bits to be flipped to convert A to B](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
+- [ ] [Efficient way to multiply with 7](https://www.geeksforgeeks.org/efficient-way-to-multiply-with-7/)
+- [ ] [Program to find whether a no is power of two](https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/)
+- [ ] [Position of rightmost set bit](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
+- [ ] [Binary representation of a given number](https://www.geeksforgeeks.org/binary-representation-of-a-given-number/)
+- [ ] [Find position of the only set bit](https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/)
+- [ ] [How to swap two numbers without using a temporary variable?](https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)
+- [ ] [Swap two nibbles in a byte](https://www.geeksforgeeks.org/swap-two-nibbles-byte/)
+- [ ] [How to turn off a particular bit in a number?](https://www.geeksforgeeks.org/how-to-turn-off-a-particular-bit-in-a-number/)
