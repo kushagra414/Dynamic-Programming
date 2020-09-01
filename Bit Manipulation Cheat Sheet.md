@@ -30,7 +30,7 @@ x&(x-1);
 
 ## Check whether a given number is a power of 4 or not
 ```c++
-if(__builtin_popcount(x)==1){
+if(!(x & (x-1))){
     if(__builtin_ctz(x)%2==0)
         return true;
 ```
