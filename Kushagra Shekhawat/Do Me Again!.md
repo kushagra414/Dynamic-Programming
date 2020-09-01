@@ -59,3 +59,5 @@
 59. [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1)
 60. [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
 61. [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/0)0)
+62. [Find the element that appears once](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
+63. [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
