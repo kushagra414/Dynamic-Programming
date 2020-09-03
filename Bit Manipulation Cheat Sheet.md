@@ -37,7 +37,7 @@ if(!(x & (x-1))){
 
 ## Compute modulus division by a power-of-2-number
 ```c++
-x&(powerOf2-1);
+x & (powerOf2 - 1);
 ```
 
 ## Rotate bits of a number
@@ -51,7 +51,7 @@ int rightCircularShift(int x,int shiftBy)
 
 ## Count number of bits to be flipped to convert A to B
 ```c++
-__builtin_popcount(a^b);
+__builtin_popcount(a ^ b);
 ```
 
 ## Find whether a no is power of two
@@ -89,4 +89,97 @@ if(!(n&(n-1)))
 ## Turn off a particular bit in a number
 ```c++
 x & (~1<<(pos-1));
+```
+
+## Check if 2 numbers are equal
+```c++
+if((x ^ y))
+    return false;
+else
+    return true;
+```
+
+## Find XOR of numbers without using xor operator
+```c++
+(x | y) & (~x | ~y);
+```
+
+## Swap three variables
+```c++
+x = x ^ y ^ z;
+y = x ^ y ^ z;
+z = x ^ y ^ z;
+x = x ^ y ^ z;
+```
+
+## Toggle Kth bit of a number
+```c++
+x = x ^ 1<<(k-1);
+```
+
+## Toggle all bits except Kth bit of a number
+```c++
+x = ~(x ^ 1<<(k-1);)
+```
+
+## Set the rightmost unset bit
+```c++
+x = x | (x+1)
+```
+
+## Toggle the last m bits
+```c++
+x ^ ~(-1<<m);
+```
+
+## Maximum XOR-value of at-most k-elements from 1 to n
+```c++
+int x = log2(n) + 1;
+return x<<1 - 1;
+
+//Alt way
+
+int res = 1; 
+while (res <= n) 
+    res <<= 1; 
+// Finding number greater than 
+// or equal to n with most significant  
+// bit same as n. For example, if n is 
+// 4, result is 7. If n is 5 or 6, result  
+// is 7 
+// Return res - 1 which denotes 
+// a number with all bits set to 1 
+return res - 1; 
+``` 
+
+## Check if a number is divisible by 8 using bitwise operators
+```c++
+return (((n >> 3) << 3) == n);
+```
+
+## Toggle bits of a number except first and last bits
+```c++
+int size = sizeof(int)*8 - __builtin_clz(n);
+int one = (1<<(size-1))-1;
+n = n ^ one;
+n = n ^ 1;
+```
+
+# Toggle all even bits of a number
+```c++
+int temp = n,i=1;
+while(temp){
+    n = n ^ 1>>(i*2);
+    i++;
+    temp = temp>>1;
+}
+```
+
+## Brian Kernighan’s Algorithm for counting set Bits
+```c++
+while(n){
+    n &=(n-1);
+    count++;
+}
+
 ```
