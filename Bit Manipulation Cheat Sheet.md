@@ -69,6 +69,17 @@ if(x!=0)
     __builtin_ctz(x)+1;
 ```
 
+## Calculate XOR from 1 to n
+```c++
+switch(n & 3) // n % 4  
+{ 
+    case 0: return n;     // if n is multiple of 4 
+    case 1: return 1;     // If n % 4 gives remainder 1   
+    case 2: return n + 1; // If n % 4 gives remainder 2     
+    case 3: return 0;     // If n % 4 gives remainder 3   
+} 
+```
+
 ## Binary representation of a given number
 ```c++
 void bin(unsigned n) 
