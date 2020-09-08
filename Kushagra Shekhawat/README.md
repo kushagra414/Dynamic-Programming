@@ -263,3 +263,257 @@
 - ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
 - [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
 - [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
+
+### **Day 17**
+#### Tasks
+- [x] [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance/0)
+- [x] [Minimum Time](https://practice.geeksforgeeks.org/problems/minimum-time/0)
+- [x] [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
+- [x] [Sum of all substrings of a number](https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number/0)
+- [x] [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
+- [x] [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score/0)
+- [ ] [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter/0)
+- [x] [Paths to reach origin](https://practice.geeksforgeeks.org/problems/paths-to-reach-origin/0)
+- [x] [Count the number of ways to tile the floor of size n x m using 1 x m size tiles](https://practice.geeksforgeeks.org/problems/count-the-number-of-ways-to-tile-the-floor-of-size-n-x-m-using-1-x-m-size-tiles/0)
+- [x] [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0)
+- [x] [Number of ways](https://practice.geeksforgeeks.org/problems/number-of-ways/0)
+- [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- ~~[ ] [Size of array after repeated deletion of LIS](https://practice.geeksforgeeks.org/problems/size-of-array-after-repeated-deletion-of-lis/0)~~
+- [x] [Convert to Strictly increasing array](https://practice.geeksforgeeks.org/problems/convert-to-strictly-increasing-array/0)
+- [x] [Ways to sum to N](https://practice.geeksforgeeks.org/problems/ways-to-sum-to-n/0)
+
+
+### **Day 18**
+#### Tasks
+- [x] [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+- [x] [Finding the numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers/0)
+- [x] [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
+- [x] [Generate binary string](https://practice.geeksforgeeks.org/problems/generate-binary-string/0)
+- [x] [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [x] [Group Anagrams Together](https://practice.geeksforgeeks.org/problems/k-anagrams-1/0)
+- [ ] [Equal](https://www.hackerrank.com/challenges/equal/problem)
+- [x] [Binary Tree to BST](https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1)
+- [x] [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1)
+- [x] [K-Concatenation](https://www.codechef.com/JAN18/problems/KCON/)
+- [x] [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
+- [x] [k largest elements](https://practice.geeksforgeeks.org/problems/k-largest-elements/0)
+- [x] [Print Diagonally](https://practice.geeksforgeeks.org/problems/print-diagonally/0)
+- [x] [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
+- [ ] [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
+- [ ] [Check If two Line segments Intersect](https://practice.geeksforgeeks.org/problems/check-if-two-line-segments-intersect/0)
+- [x] [Check Mirror in N-ary tree](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+- [x] [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element/0)
+- [ ] [Generalised Fibonacci numbers](https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers/0)
+
+
+### **Day 19**
+#### Tasks
+- [x] [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0)
+- [x] [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
+- [x] [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+- [x] [Smallest distinct window](https://practice.geeksforgeeks.org/problems/smallest-distant-window/0)
+- [x] [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)
+- [x] [Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory/0)
+- [x] [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
+- [x] [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix/0)
+- [x] [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0)
+- [x] [Count Number of SubTrees having given Sum](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1)
+- [x] [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0)
+- [x] [Max Circular Subarray Sum](https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum/0)
+- [x] [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number/0)
+- [x] [Set Bits](https://practice.geeksforgeeks.org/problems/set-bits/0)
+- [x] [Convert Level Order Traversal to BST](https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst/1)
+
+
+### **Day 20**
+#### Tasks
+- [x] [Print adjacency list](https://practice.geeksforgeeks.org/problems/print-adjacency-list/0)  ---> using Matrix, Adjacency List and unordered set in which searching and inserting takes O(1) time.
+- [x] [Graph representations using set and hash](https://www.geeksforgeeks.org/graph-representations-using-set-hash/)
+- [x] [Find a Mother Vertex in a Graph](https://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/)
+- [x] [Transitive closure of a Graph](https://practice.geeksforgeeks.org/problems/transitive-closure-of-a-graph/0)
+- [x] [Transitive Closure of a Graph using DFS](https://www.geeksforgeeks.org/transitive-closure-of-a-graph-using-dfs/)
+- [x] [Find k-cores of an undirected graph](https://www.geeksforgeeks.org/find-k-cores-graph/)
+- [x] [Iterative Depth First Traversal of Graph](https://www.geeksforgeeks.org/iterative-depth-first-traversal/)
+- [x] [Count the number of nodes at given level in a tree using BFS.](https://www.geeksforgeeks.org/count-number-nodes-given-level-using-bfs/)
+- [x] [Count all possible paths between two vertices](https://www.geeksforgeeks.org/count-possible-paths-two-vertices/)
+- [x] [Minimum initial vertices to traverse whole matrix with given conditions](https://www.geeksforgeeks.org/minimum-initial-vertices-traverse-whole-matrix-given-conditions/)
+- [ ] [Shortest path to reach one prime to other by changing single digit at a time](https://www.geeksforgeeks.org/shortest-path-reach-one-prime-changing-single-digit-time/)
+- [x] [Water Jug problem using BFS](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/)
+- [x] [Count number of trees in a forest](https://www.geeksforgeeks.org/count-number-trees-forest/)
+- [x] [BFS using vectors & queue as per the algorithm of CLRS](https://www.geeksforgeeks.org/bfs-using-vectors-queue-per-algorithm-clrs/)
+- [x] [Level of Each node in a Tree from source node (using BFS)](https://www.geeksforgeeks.org/level-node-tree-source-node-using-bfs/)
+- [ ] [Construct binary palindrome by repeated appending and trimming](https://www.geeksforgeeks.org/construct-binary-palindrome-by-repeated-appending-and-trimming/)
+- [x] [Transpose graph](https://www.geeksforgeeks.org/transpose-graph/)
+- [ ] [Path in a Rectangle with Circles](https://www.geeksforgeeks.org/path-rectangle-containing-circles/)
+
+
+### **Day 21**
+#### Tasks
+- [x] [Detect cycle in an undirected graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
+- [x] [Detect cycle in a directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
+- [x] [Detect a negative cycle in a Graph | (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)
+- ~~[ ] [Cycles of length n in an undirected and connected graph](https://www.geeksforgeeks.org/cycles-of-length-n-in-an-undirected-and-connected-graph/)~~
+- [x] [Detecting negative cycle using Floyd Warshall](https://www.geeksforgeeks.org/detecting-negative-cycle-using-floyd-warshall/)
+- [x] [Check whether a given graph is Bipartite or not](https://www.geeksforgeeks.org/bipartite-graph/)
+- [ ] [Check if there is a cycle with odd weight sum in an undirected graph](https://www.geeksforgeeks.org/check-if-there-is-a-cycle-with-odd-weight-sum-in-an-undirected-graph/)
+- [x] [Check if a graphs has a cycle of odd length](https://www.geeksforgeeks.org/check-graphs-cycle-odd-length/)
+- [x] [Clone a Directed Acyclic Graph](https://www.geeksforgeeks.org/clone-directed-acyclic-graph/)
+- [x] [Check loop in array according to given constraints](https://www.geeksforgeeks.org/check-loop-array-according-given-constraints/)
+- [x] [Disjoint Set (Or Union-Find) | Set 1 (Detect Cycle in an Undirected Graph)](https://www.geeksforgeeks.org/union-find/)
+- [x] [Union-Find Algorithm | Set 2 (Union By Rank and Path Compression)](https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/)
+- [x] [Union-Find Algorithm | (Union By Rank and Find by Optimized Path Compression)](https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/)
+- [x] [Magical Indices in an array](https://www.geeksforgeeks.org/magical-indices-array/)
+
+
+### **Day 22**
+#### Tasks
+- [x] [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
+- [x] [All Topological Sorts of a Directed Acyclic Graph](https://www.geeksforgeeks.org/all-topological-sorts-of-a-directed-acyclic-graph/)
+- [x] [Kahn’s algorithm for Topological Sorting](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)
+- [x] [Maximum edges that can be added to DAG so that remains DAG](https://www.geeksforgeeks.org/maximum-edges-can-added-dag-remains-dag/)
+- [x] [Longest path between any pair of vertices](https://www.geeksforgeeks.org/longest-path-between-any-pair-of-vertices/)  ----> Do this for a DAG
+- [x] [Longest Path in a Directed Acyclic Graph](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
+- ~~[ ] [Longest Path in a Directed Acyclic Graph | Set 2](https://www.geeksforgeeks.org/longest-path-directed-acyclic-graph-set-2/)~~ ---> Do in shortest Paths
+- [x] [Topological Sort of a graph using departure time of vertex](https://www.geeksforgeeks.org/topological-sorting-using-departure-time-of-vertex/)
+- [x] [Given a sorted dictionary of an alien language, find order of characters](https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/)
+- ~~[x] [Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)~~   ---> Done in Day 6, But should be revised once again!
+- [x] [Applications of Minimum Spanning Tree Problem](https://www.geeksforgeeks.org/applications-of-minimum-spanning-tree/)
+- [x] [Prim’s MST for Adjacency List Representation | Greedy Algo-6](https://www.geeksforgeeks.org/prims-mst-for-adjacency-list-representation-greedy-algo-6/)
+- [x] [Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+- [x] [Boruvka’s algorithm | Greedy Algo-9](https://www.geeksforgeeks.org/boruvkas-algorithm-greedy-algo-9/)
+- [x] [Minimum cost to connect all cities](https://www.geeksforgeeks.org/minimum-cost-connect-cities/)
+- [x] [Steiner Tree Problem](https://www.geeksforgeeks.org/steiner-tree/)
+- ~~[x] [Reverse Delete Algorithm for Minimum Spanning Tree](https://www.geeksforgeeks.org/reverse-delete-algorithm-minimum-spanning-tree/)~~ ---> More efficient approach in connectivity using articulation point
+- [x] [Bridge Edge in Graph](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)
+- [x] [Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/total-number-spanning-trees-graph/)
+- [x] [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0)
+- [x] [Minimum Product Spanning Tree](https://www.geeksforgeeks.org/minimum-product-spanning-tree/)
+
+
+### **Day 23**
+#### Tasks
+- [x] [Find the element that appears once in an array where other elements occur Thrice](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
+- [x] [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
+- [x] [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
+- [x] [Multiply a given Integer with 3.5](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
+- [x] [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
+- [x] [Find whether a given number is a power of 4 or not](https://www.geeksforgeeks.org/find-whether-a-given-number-is-a-power-of-4-or-not/)
+- [x] [Compute modulus division by a power-of-2-number](https://www.geeksforgeeks.org/compute-modulus-division-by-a-power-of-2-number/)
+- [x] [Rotate bits of a number](https://www.geeksforgeeks.org/rotate-bits-of-an-integer/)
+- [x] [Find the Number Occurring Odd Number of Times](https://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/)
+- [x] [Check for Integer Overflow](https://www.geeksforgeeks.org/check-for-integer-overflow/)
+- [x] [Count set bits in an integer](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
+- [x] [Count number of bits to be flipped to convert A to B](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
+- [x] [Efficient way to multiply with 7](https://www.geeksforgeeks.org/efficient-way-to-multiply-with-7/)
+- [x] [Program to find whether a no is power of two](https://www.geeksforgeeks.org/program-to-find-whether-a-no-is-power-of-two/)
+- [x] [Position of rightmost set bit](https://www.geeksforgeeks.org/position-of-rightmost-set-bit/)
+- [x] [Binary representation of a given number](https://www.geeksforgeeks.org/binary-representation-of-a-given-number/)
+- [x] [Find position of the only set bit](https://www.geeksforgeeks.org/find-position-of-the-only-set-bit/)
+- [x] [How to swap two numbers without using a temporary variable?](https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/)
+- [x] [Swap two nibbles in a byte](https://www.geeksforgeeks.org/swap-two-nibbles-byte/)
+- [x] [How to turn off a particular bit in a number?](https://www.geeksforgeeks.org/how-to-turn-off-a-particular-bit-in-a-number/)
+
+
+### **Day 24**
+#### Tasks
+- [x] [Russian Peasant (Multiply two numbers using bitwise operators](https://www.geeksforgeeks.org/russian-peasant-multiply-two-numbers-using-bitwise-operators/)
+- [x] [Add two bit strings](https://www.geeksforgeeks.org/add-two-bit-strings/)
+- [x] _[Write your own strcmp that ignores cases](https://www.geeksforgeeks.org/write-your-own-strcmp-which-ignores-cases/)_
+- [x] [Check if two numbers are equal without using arithmetic and comparison operators](https://www.geeksforgeeks.org/check-if-two-numbers-are-equal-without-using-arithmetic-and-comparison-operators/)
+- [x] [Find XOR of two number without using XOR operator](https://www.geeksforgeeks.org/find-xor-of-two-number-without-using-xor-operator/)
+- [x] [XOR counts of 0s and 1s in binary representation](https://www.geeksforgeeks.org/xor-counts-0s-1s-binary-representation/)
+- [x] _[Calculate XOR from 1 to n.](https://www.geeksforgeeks.org/calculate-xor-1-n/)_
+- [x] _[Equal Sum and XOR](https://www.geeksforgeeks.org/equal-sum-xor/)_
+- [x] [Swap three variables without using temporary variable](https://www.geeksforgeeks.org/swap-three-variables-without-using-temporary-variable/)
+- [x] [Check if a number has bits in alternate pattern | Set 1](https://www.geeksforgeeks.org/check-if-a-number-has-bits-in-alternate-pattern/)
+- [x] [XOR of two numbers after making length of their binary representations equal](https://www.geeksforgeeks.org/xor-two-numbers-making-length-binary-representations-equal/)
+- [x] [Count minimum bits to flip such that XOR of A and B equal to C](https://www.geeksforgeeks.org/count-minimum-bits-flip-xor-b-equal-c/)
+- [x] [Efficient method for 2’s complement of a binary string](https://www.geeksforgeeks.org/efficient-method-2s-complement-binary-string/)
+- [x] [Toggle case of a string using Bitwise Operators](https://www.geeksforgeeks.org/toggle-case-string-using-bitwise-operators/)
+- [x] [Toggling k-th bit of a number](https://www.geeksforgeeks.org/toggling-k-th-bit-number/)
+- [x] _[Convert decimal fraction to binary number](https://www.geeksforgeeks.org/convert-decimal-fraction-binary-number/)_
+- [x] [Toggle all the bits of a number except k-th bit.](https://www.geeksforgeeks.org/toggle-bits-number-except-k-th-bit/)
+- [x] [Set the rightmost unset bit](https://www.geeksforgeeks.org/set-rightmost-unset-bit/)
+- [ ] ~~[Convert a binary number to octal](https://www.geeksforgeeks.org/convert-binary-number-octal/)~~
+- [x] [Check in binary array the number represented by a subarray is odd or even](https://www.geeksforgeeks.org/check-binary-array-number-represented-subarray-odd-even/)
+- [x] [Toggle the last m bits](https://www.geeksforgeeks.org/toggle-last-m-bits/)
+- [x] _[Numbers with alternative 1's](https://practice.geeksforgeeks.org/problems/numbers-with-alternative-1s/0)_
+- [ ] [Unset bits in the given range](https://www.geeksforgeeks.org/unset-bits-given-range/)
+- [x] [Find the largest number with n set and m unset bits](https://www.geeksforgeeks.org/find-largest-number-n-set-m-unset-bits/)
+- [x] [Find the smallest number with n set and m unset bits](https://www.geeksforgeeks.org/find-smallest-number-n-set-m-unset-bits/)
+- [x] _[Sum of numbers with exactly 2 bits set](https://www.geeksforgeeks.org/sum-numbers-exactly-2-bits-set/)_
+- [ ] [Check if binary representation of a given number and its complement are anagram](https://www.geeksforgeeks.org/check-binary-representation-given-number-complement-anagram/)
+- [x] [Check a number is odd or even without modulus operator](https://www.geeksforgeeks.org/3-ways-check-number-odd-even-without-using-modulus-operator-set-2-can-merge-httpswww-geeksforgeeks-orgcheck-whether-given-number-even-odd/)
+- [x] [Bitwise recursive addition of two integers](https://www.geeksforgeeks.org/bitwise-recursive-addition-two-integers/)
+- [x] _[Print bitwise AND set of a number N](https://www.geeksforgeeks.org/print-bitwise-and-set-of-a-number-n/)_
+- [x] [Fast average of two numbers without division](https://www.geeksforgeeks.org/fast-average-two-numbers-without-division/)
+- [x] _[Maximum XOR-value of at-most k-elements from 1 to n](https://www.geeksforgeeks.org/maximum-xor-value-k-elements-1-n/)_
+- [x] [Swap every two bits in bytes](https://www.geeksforgeeks.org/swap-every-two-bits-bytes/)
+- [x] [Check if a number is divisible by 8 using bitwise operators](https://www.geeksforgeeks.org/check-number-divisible-8-using-bitwise-operators/)
+- [ ] ~~[Number of Reflexive Relations on a Set](https://www.geeksforgeeks.org/number-reflexive-relations-set/)~~
+- [x] [For every set bit of a number toggle bits of other](https://www.geeksforgeeks.org/for-every-set-bit-of-a-number-toggle-bits-of-other/)
+- [x] [Toggle bits of a number except first and last bits](https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/)
+- [x] [Check if given four integers (or sides) make rectangle](https://www.geeksforgeeks.org/check-given-four-integers-sides-make-rectangle/)
+- [x] [Toggle first and last bits of a number](https://www.geeksforgeeks.org/toggle-first-last-bits-number/)
+- [x] [Toggle all even bits of a number](https://www.geeksforgeeks.org/toggle-even-bits-number/)
+- [x] [Set the Left most unset bit](https://www.geeksforgeeks.org/set-left-unset-bit/)
+- [x] _[Maximum XOR using K numbers from 1 to n](https://www.geeksforgeeks.org/maximum-xor-using-k-numbers-1-n/)_
+
+
+### **Day 25**
+#### Tasks
+- [x] [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [x] [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+- [x] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+- [x] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [x] [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+- [x] [Single Number](https://leetcode.com/problems/single-number/)
+- [x] [Number Complement](https://leetcode.com/problems/number-complement/)
+- [x] [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
+- [x] [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element)
+- [x] [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+- ~~[ ] [Binary Watch](https://leetcode.com/problems/binary-watch)~~
+- [x] [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two)
+- [x] [Power of Four](https://leetcode.com/problems/power-of-four)
+- [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits)
+- [x] [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)   ---> try to do in O(n^2) or O(1)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits)
+
+### **Day 26**
+#### Tasks
+- [x] [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
+- [x] [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
+- [x] [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
+- [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+- [x] [Single Number III](https://leetcode.com/problems/single-number-iii/)
+- [x] [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
+- [ ] ~~[Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)~~
+- [x] [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+- [x] [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/)
+- [x] [Single Number II](https://leetcode.com/problems/single-number-ii/)
+- [x] [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [x] [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+- [x] [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+- [ ] ~~[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)~~
+
+### **Day 27**
+#### Tasks
+- [x] [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
+- [x] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)
+- [x] [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
+- [x] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)
+- [ ] ~~[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation)~~
+- [x] [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)
+- [x] [Integer Replacement](https://leetcode.com/problems/integer-replacement)
+- [ ] [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)
+- [x] [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team)
+- [x] [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)
+- [ ] [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)
+- [x] [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)
+- [x] [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring)

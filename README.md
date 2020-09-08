@@ -353,7 +353,6 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 21**
 #### Tasks
-#### Tasks
 - [x] [Detect cycle in an undirected graph](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
 - [x] [Detect cycle in a directed graph](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
 - [x] [Detect a negative cycle in a Graph | (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)
@@ -397,7 +396,6 @@ That's it lets try to master DP starting from the bottom.
 
 ### **Day 23**
 #### Tasks
-#### Tasks
 - [x] [Find the element that appears once in an array where other elements occur Thrice](https://www.geeksforgeeks.org/find-the-element-that-appears-once/)
 - [x] [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
 - [x] [Add 1 to a given number](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
@@ -421,7 +419,7 @@ That's it lets try to master DP starting from the bottom.
 
 
 ### **Day 24**
-## Tasks
+#### Tasks
 - [x] [Russian Peasant (Multiply two numbers using bitwise operators](https://www.geeksforgeeks.org/russian-peasant-multiply-two-numbers-using-bitwise-operators/)
 - [x] [Add two bit strings](https://www.geeksforgeeks.org/add-two-bit-strings/)
 - [x] _[Write your own strcmp that ignores cases](https://www.geeksforgeeks.org/write-your-own-strcmp-which-ignores-cases/)_
@@ -466,8 +464,7 @@ That's it lets try to master DP starting from the bottom.
 - [x] _[Maximum XOR using K numbers from 1 to n](https://www.geeksforgeeks.org/maximum-xor-using-k-numbers-1-n/)_
 
 
-## **Day 25**
-#### Tasks
+### **Day 25**
 #### Tasks
 - [x] [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [x] [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
@@ -490,8 +487,8 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)   ---> try to do in O(n^2) or O(1)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits)
 
-## **Day 26**
-### Tasks
+### **Day 26**
+#### Tasks
 - [x] [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 - [x] [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
 - [x] [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)
@@ -509,8 +506,8 @@ That's it lets try to master DP starting from the bottom.
 - [x] [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
 - [ ] ~~[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/)~~
 
-## **Day 27**
-### Tasks
+### **Day 27**
+#### Tasks
 - [x] [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
 - [x] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)
 - [x] [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
