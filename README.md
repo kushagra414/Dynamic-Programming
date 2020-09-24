@@ -548,3 +548,6 @@ That's it lets try to master DP starting from the bottom.
 - [ ] [Karp’s minimum mean (or average) weight cycle algorithm](https://www.geeksforgeeks.org/karps-minimum-mean-average-weight-cycle-algorithm/)
 - [ ] [0-1 BFS (Shortest Path in a Binary Weight Graph)](https://www.geeksforgeeks.org/0-1-bfs-shortest-path-binary-graph/)
 - [ ] [Find minimum weight cycle in an undirected graph](https://www.geeksforgeeks.org/find-minimum-weight-cycle-undirected-graph/)
+- [ ] [Minimum Cost Path with Left, Right, Bottom and Up moves allowed](https://www.geeksforgeeks.org/minimum-cost-path-left-right-bottom-moves-allowed/)
+- [ ] [Minimum edges to reverse to make path from a source to a destination](https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/)
+- [ ] [Find Shortest distance from a guard in a Bank](https://www.geeksforgeeks.org/find-shortest-distance-guard-bank/)
