@@ -43,10 +43,10 @@ x & (powerOf2 - 1);
 ## Rotate bits of a number
 ```c++
 int leftCircularShift(int x,int shiftBy)
-    return (x<<shiftBy) | (x>>shiftBy);
+    return (x<<shiftBy) | (x>>(total_bits-shiftBy));
 
 int rightCircularShift(int x,int shiftBy)
-    return (x>>shiftBy) | (x<<shiftBy);
+    return (x>>shiftBy) | (x<<(total_bits-shiftBy));
 ```
 
 ## Count number of bits to be flipped to convert A to B
